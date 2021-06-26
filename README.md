@@ -9,6 +9,7 @@ Browse image from the system . Select the image and Test the image .
 
 It works this type of Chest X-rays images.
 
+![094](https://user-images.githubusercontent.com/72974690/123508510-56335380-d689-11eb-9c92-e1252d11c6f5.png)
 
 # Requirements:
 Any Python Compiler
